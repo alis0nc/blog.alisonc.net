@@ -1,0 +1,14 @@
+---
+layout: page
+title: "404: Page not found"
+comments: false
+sharing: false
+footer: true
+---
+You want far too much  
+we will never reach the sky  
+access is denied
+
+Please [notify me](mailto:blog@alisonc.net) about this error.
+
+How about [going home](/)?
