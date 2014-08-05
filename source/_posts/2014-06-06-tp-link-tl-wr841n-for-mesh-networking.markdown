@@ -3,7 +3,7 @@ layout: post
 title: "TP-Link TL-WR841N for mesh networking"
 date: 2014-06-06 10:18:16 -0400
 comments: true
-categories: networking, mesh 
+categories: networking mesh 
 ---
 [{% img /images/tl-wr841n-400.jpg "Click to embiggen" "Image description: Four green boxes, each containing a TP-Link TL-WR841N wireless router." %}](/images/tl-wr841n.jpg)
 

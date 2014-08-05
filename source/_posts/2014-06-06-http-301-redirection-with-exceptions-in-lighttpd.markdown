@@ -3,7 +3,7 @@ layout: post
 title: "HTTP 301 redirection with exceptions in lighttpd"
 date: 2014-06-06 23:25:46 -0400
 comments: true
-categories: lighttpd, config
+categories: lighttpd config
 ---
 I've recently decided to make my base domain ```alisonc.net``` redirect to 
 this blog's subdomain ```blog.alisonc.net```, with a 
