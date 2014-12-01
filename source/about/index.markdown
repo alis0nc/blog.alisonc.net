@@ -6,7 +6,7 @@ comments: false
 sharing: true
 footer: true
 ---
-I'm Alison Chan. I am currently a senior computer science/computer engineering 
+I'm Alison. I am currently a senior computer science/computer engineering 
 student at [Kettering University](http://kettering.edu/), and I plan on pursuing 
 a Master in Social Work (MSW) degree upon graduation from Kettering. 
 
