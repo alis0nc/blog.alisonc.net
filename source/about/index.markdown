@@ -6,6 +6,10 @@ comments: false
 sharing: true
 footer: true
 ---
+
+[{% img /images/catselfie-300.jpg "Click to embiggen" "Image description: It's a selfie of me, wearing tiger-stripey cat ears." %}](/images/catselfie.jpg)
+
+
 I'm Alison. I am currently a senior computer science/computer engineering 
 student at [Kettering University](http://kettering.edu/), and I plan on pursuing 
 a Master in Social Work (MSW) degree upon graduation from Kettering. 
@@ -18,4 +22,4 @@ vegetarian/vegan cooking, live music, and creating and furthering anti-oppressiv
 I have a [résumé](https://github.com/alis0nc/resume) 
 ([pdf link](http://alisonc.net/~alisonc/resume.pdf)).
 
-The best way to contact me is to email me on *alisonc at alisonc dot net*.
+The best way to contact me is email: **alisonc at alisonc dot net**.
