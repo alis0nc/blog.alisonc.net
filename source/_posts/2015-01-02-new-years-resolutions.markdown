@@ -14,8 +14,7 @@ chance of actually keeping any of them if i go public with them on this blog.
    that catastrophically fail.
 2. **Backups.** Make such a catastrophic failure survivable.
 3. **Get rid of Animal Crossing: New Leaf.** Actually progressing with it (getting 
-   rare items/good HHA scores/etc) is a massive time suck that I can't afford. The 
-   game has capitalist undertones anyway.
+   rare items/good HHA scores/etc) is a massive time suck that I can't afford. 
 4. **Get rid of one piece of technology per month.** I have too much technology 
    and need to get rid of it. I'll either sell or give away things, or failing 
    that, recycle it.
